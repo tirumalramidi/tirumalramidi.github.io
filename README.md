@@ -51,7 +51,7 @@ This project was built using these technologies.
 
 **📱 Fully Responsive**
 
-## Getting Started
+<!-- ## Getting Started -->
 
 <!-- Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
